@@ -15,12 +15,12 @@ import java.io.PrintWriter;
 public class ResetServlet extends HttpServlet {
 
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.log("ResetServlet init");
     }
 
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         Logger.log("ResetServlet doGet is running. Counter is reset.");
         HttpSession session = req.getSession();
         resp.setContentType("text/html");

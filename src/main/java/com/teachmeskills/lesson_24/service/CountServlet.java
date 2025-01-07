@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 @WebServlet("/count")
 public class CountServlet extends HttpServlet {
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.log("CountServlet init");
     }
     @Override

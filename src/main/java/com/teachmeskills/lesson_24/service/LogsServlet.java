@@ -23,7 +23,6 @@ public class LogsServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         Logger.log("LogServlet doGet is run");
-        HttpSession session = req.getSession();
         resp.setContentType("text/html");
         final String LOG_FILE = "C:\\Users\\Igor and Maria\\IdeaProjects\\TeachMeSkills_C32_HW_Lesson_24\\src\\main\\resources\\log.txt";
         try (BufferedReader reader = new BufferedReader(new FileReader(LOG_FILE));

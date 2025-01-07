@@ -13,7 +13,7 @@ import java.io.IOException;
 public class MainServlet extends HttpServlet {
 
     @Override
-    public void init() throws ServletException {
+    public void init() {
         Logger.log("MainServlet init");
     }
 
