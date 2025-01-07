@@ -1,0 +1,110 @@
+[INFO]	07-01-2025 13:03:14		MainServlet init
+[INFO]	07-01-2025 13:03:14		MainServlet doGet is running
+[INFO]	07-01-2025 13:03:15		MainServlet doGet is running
+[INFO]	07-01-2025 13:03:19		AboutMeServlet init
+[INFO]	07-01-2025 13:03:19		AboutMeServlet doGet is running
+[INFO]	07-01-2025 13:03:26		LogServlet init
+[INFO]	07-01-2025 13:03:26		LogServlet doGet is run
+[INFO]	07-01-2025 13:03:43		MainServlet destroy
+[INFO]	07-01-2025 13:03:43		AboutMeServlet destroy
+[INFO]	07-01-2025 13:03:43		LogServlet destroy
+[INFO]	07-01-2025 13:04:09		MainServlet init
+[INFO]	07-01-2025 13:04:09		MainServlet doGet is running
+[INFO]	07-01-2025 13:04:09		MainServlet doGet is running
+[INFO]	07-01-2025 13:04:12		LogServlet init
+[INFO]	07-01-2025 13:04:12		LogServlet doGet is run
+[INFO]	07-01-2025 13:04:28		MainServlet destroy
+[INFO]	07-01-2025 13:04:28		LogServlet destroy
+[INFO]	07-01-2025 13:10:22		MainServlet init
+[INFO]	07-01-2025 13:10:22		MainServlet doGet is running
+[INFO]	07-01-2025 13:10:22		MainServlet doGet is running
+[INFO]	07-01-2025 13:10:27		SettingsServlet init
+[INFO]	07-01-2025 13:10:27		SettingsServlet doGet is run
+[INFO]	07-01-2025 13:10:43		LogServlet init
+[INFO]	07-01-2025 13:10:43		LogServlet doGet is run
+[INFO]	07-01-2025 13:13:35		MainServlet destroy
+[INFO]	07-01-2025 13:13:35		SettingsServlet destroy
+[INFO]	07-01-2025 13:13:35		LogServlet destroy
+[INFO]	07-01-2025 13:13:43		MainServlet init
+[INFO]	07-01-2025 13:13:43		MainServlet doGet is running
+[INFO]	07-01-2025 13:13:43		MainServlet doGet is running
+[INFO]	07-01-2025 13:13:46		SettingsServlet init
+[INFO]	07-01-2025 13:13:46		SettingsServlet doGet is run
+[INFO]	07-01-2025 13:14:43		MainServlet destroy
+[INFO]	07-01-2025 13:14:43		SettingsServlet destroy
+[INFO]	07-01-2025 13:14:49		MainServlet init
+[INFO]	07-01-2025 13:14:49		MainServlet doGet is running
+[INFO]	07-01-2025 13:14:49		MainServlet doGet is running
+[INFO]	07-01-2025 13:14:52		SettingsServlet init
+[INFO]	07-01-2025 13:14:52		SettingsServlet doGet is run
+[INFO]	07-01-2025 13:15:01		MainServlet destroy
+[INFO]	07-01-2025 13:15:01		SettingsServlet destroy
+[INFO]	07-01-2025 13:18:48		MainServlet init
+[INFO]	07-01-2025 13:18:48		MainServlet doGet is running
+[INFO]	07-01-2025 13:18:49		MainServlet doGet is running
+[INFO]	07-01-2025 13:18:52		CountServlet init
+[INFO]	07-01-2025 13:18:52		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:52		CountServlet - counter is 1
+[INFO]	07-01-2025 13:18:53		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:53		CountServlet - counter is 2
+[INFO]	07-01-2025 13:18:54		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:54		CountServlet - counter is 3
+[INFO]	07-01-2025 13:18:54		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:54		CountServlet - counter is 4
+[INFO]	07-01-2025 13:18:54		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:54		CountServlet - counter is 5
+[INFO]	07-01-2025 13:18:55		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:55		CountServlet - counter is 6
+[INFO]	07-01-2025 13:18:55		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:55		CountServlet - counter is 7
+[INFO]	07-01-2025 13:18:55		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:55		CountServlet - counter is 8
+[INFO]	07-01-2025 13:18:55		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:55		CountServlet - counter is 9
+[INFO]	07-01-2025 13:18:56		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:56		CountServlet - counter is 10
+[INFO]	07-01-2025 13:18:56		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:56		CountServlet - counter is 11
+[INFO]	07-01-2025 13:18:56		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:56		CountServlet - counter is 12
+[INFO]	07-01-2025 13:18:57		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:57		CountServlet - counter is 13
+[INFO]	07-01-2025 13:18:57		CountServlet doGet is running
+[INFO]	07-01-2025 13:18:57		CountServlet - counter is 14
+[INFO]	07-01-2025 13:21:09		CountServlet destroy
+[INFO]	07-01-2025 13:21:09		MainServlet destroy
+[INFO]	07-01-2025 13:21:15		MainServlet init
+[INFO]	07-01-2025 13:21:15		MainServlet doGet is running
+[INFO]	07-01-2025 13:21:16		MainServlet doGet is running
+[INFO]	07-01-2025 13:21:20		CountServlet init
+[INFO]	07-01-2025 13:21:20		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:20		CountServlet - counter is 1
+[INFO]	07-01-2025 13:21:21		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:21		CountServlet - counter is 2
+[INFO]	07-01-2025 13:21:21		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:21		CountServlet - counter is 3
+[INFO]	07-01-2025 13:21:22		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:22		CountServlet - counter is 4
+[INFO]	07-01-2025 13:21:22		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:22		CountServlet - counter is 5
+[INFO]	07-01-2025 13:21:22		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:22		CountServlet - counter is 6
+[INFO]	07-01-2025 13:21:25		ResetServlet init
+[INFO]	07-01-2025 13:21:25		ResetServlet doGet is running. Counter is reset.
+[INFO]	07-01-2025 13:21:28		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:28		CountServlet - counter is 1
+[INFO]	07-01-2025 13:21:29		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:29		CountServlet - counter is 2
+[INFO]	07-01-2025 13:21:29		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:29		CountServlet - counter is 3
+[INFO]	07-01-2025 13:21:32		MainServlet doGet is running
+[INFO]	07-01-2025 13:21:34		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:34		CountServlet - counter is 4
+[INFO]	07-01-2025 13:21:36		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:36		CountServlet - counter is 5
+[INFO]	07-01-2025 13:21:36		CountServlet doGet is running
+[INFO]	07-01-2025 13:21:36		CountServlet - counter is 6
+[INFO]	07-01-2025 13:21:38		ResetServlet doGet is running. Counter is reset.
+[INFO]	07-01-2025 13:22:15		ResetServlet destroy
+[INFO]	07-01-2025 13:22:15		CountServlet destroy
+[INFO]	07-01-2025 13:22:15		MainServlet destroy
